@@ -4,13 +4,12 @@
 ///Edit Under This only
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBqzTSmU877HnNKuMTtWdo78vmCfc4T_OA",
-  authDomain: "instauser-3e4a9.firebaseapp.com",
-  projectId: "instauser-3e4a9",
-  storageBucket: "instauser-3e4a9.appspot.com",
-  messagingSenderId: "714966193607",
-  appId: "1:714966193607:web:a0744ec5882f6eb55f35e2",
-  measurementId: "G-ZHMB8D46C2"
+  apiKey: "AIzaSyD3Y4df5eUFfkheHih9YP-z8m333UkVGBI",
+  authDomain: "instagramuser-40e5b.firebaseapp.com",
+  projectId: "instagramuser-40e5b",
+  storageBucket: "instagramuser-40e5b.appspot.com",
+  messagingSenderId: "517623282260",
+  appId: "1:517623282260:web:5f7d770dfa7ced216d0bc1"
 };
 
      
